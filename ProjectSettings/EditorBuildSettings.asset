@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/dead_garden.unity
     guid: 665abef427b07664cbb85a821b6d29a9
+  - enabled: 1
+    path: Assets/Scenes/default_scene.unity
+    guid: 782c73ed1152c3348857eed176c2e471
   m_configObjects: {}
