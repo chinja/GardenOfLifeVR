@@ -34,6 +34,6 @@ public class DeadGardenScript : MonoBehaviour {
     void ChangeScene()
     {
         Debug.Log("Loading Alive Garden");
-        SceneManager.LoadScene("Scenes/alive_garden", LoadSceneMode.Single);
+        SceneManager.LoadScene("Scenes/romans_road_scene", LoadSceneMode.Single);
     }
 }

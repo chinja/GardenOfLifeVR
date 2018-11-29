@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour {
 
-	public void ChangeScene()
+	public void changeScene()
     {
         // Changes to Game Scene.
         Debug.Log("Change Scene.");

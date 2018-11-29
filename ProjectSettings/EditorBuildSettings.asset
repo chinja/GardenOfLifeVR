@@ -6,12 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/alive_garden.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/start_scene.unity
+    guid: 6bbdeb1524efe5240b20b549727704f1
   - enabled: 1
     path: Assets/Scenes/dead_garden.unity
     guid: 665abef427b07664cbb85a821b6d29a9
   - enabled: 1
+    path: Assets/Scenes/romans_road_scene.unity
+    guid: e10d5b3d3763b8e4aab10bca7662f34e
+  - enabled: 1
+    path: Assets/Scenes/alive_garden.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
     path: Assets/Scenes/default_scene.unity
     guid: 782c73ed1152c3348857eed176c2e471
   m_configObjects: {}
